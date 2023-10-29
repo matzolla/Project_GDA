@@ -1,3 +1,4 @@
+# import necessary librairies
 import numpy as np
 
 def PCA(df, k):
