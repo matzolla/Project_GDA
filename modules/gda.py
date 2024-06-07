@@ -7,15 +7,17 @@ Original file is located at
     https://colab.research.google.com/drive/1OqGKXMMApJFrCHToHKpjsvd7FAzzorq_
 """
 
-"""In the name of all the team, this file implements the Generative discriminant analysis
+"""
+In the name of all the team, this file implements the Generative discriminant analysis
 algorithm from scratch we build a class which compute all the parameters of the likelihood
 
 
-Authors---> NANCY
-       ---> ORNELA
-       ---> AVOTRA
-       ---> FENOSOA
-       ----> ALLASSAN"""
+Authors ---> NANCY
+        ---> ORNELA
+        ---> AVOTRA
+        ---> FENOSOA
+        ---> ALLASSAN
+"""
 import numpy as np
 import pandas as pd
 
